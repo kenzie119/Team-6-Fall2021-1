@@ -1,0 +1,1 @@
+11. A feature that allows different games options for different settings (classroom/social setting)
